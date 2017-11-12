@@ -33,6 +33,7 @@
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
+  overflow-y: hidden;
 }
 body {
   background: #24292E;
