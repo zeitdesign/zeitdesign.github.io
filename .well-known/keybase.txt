@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/zeit
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://zeit.design
+  * I am zeit (https://keybase.io/zeit) on keybase.
+  * I have a public key with fingerprint 9E9E 5295 8E50 C081 03E7  20D1 0A5E 427F F8FA E2B2
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018175058c680d85bdefa698f266bab680d1e0a24984f24f5f7487bdfb0ba382d40a",
+      "fingerprint": "9e9e52958e50c08103e720d10a5e427ff8fae2b2",
+      "host": "keybase.io",
+      "key_id": "0a5e427ff8fae2b2",
+      "kid": "01018175058c680d85bdefa698f266bab680d1e0a24984f24f5f7487bdfb0ba382d40a",
+      "uid": "e4aafd8b490317495231d1c9ad7ada19",
+      "username": "zeit"
+    },
+    "service": {
+      "hostname": "zeit.design",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1510494257,
+  "expire_in": 157680000,
+  "prev": "07136bd8b0c9e35d09e7e90293b452b2b5307237f704972bf476e36c97c399a9",
+  "seqno": 2,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJbSBVBGD6a2fGUmBIYRWVLFwit2dmdMzuHri+JiRChkF04ze7OnrOd
+3D2dXTU1ewgiokgsJcGSQHoog8oe1KI0qQdRoyS6QPSQWRlFF8I6hNKsFQS9Ni/D
+/P/3ffN/H//dzBm+QMru2af3oq4FX1IG7zRW+nb4t4p1gmrrNUKoToix6Yvt05nj
+hmOmLoQEIAJRETECSNGCCtAVpOrMoEGiGDAYVKnqFUUGKJSJIhtQNpCBZQWruqEC
+lUoK1GVAhXzBMK0IS8QTpuVyWcIIQ5AghSGgAUUEEsOQCwGKmAyxYSgGZVCFnBi1
+HY/Bh1Opw1abNq/xR/jXeP/i//PcldNyTKbU0BVVJkASsUwQlERd1AjVMdWpSDyg
+wxIWrWAcXctMV6jPF3ilytSYF6rn4q/uah6xGbE4LZ6wXVuz9/FG1HXjIY/n1sQ9
+YDVTw78lwqpp6TxBTqhiCce0LSEkcqTmmp6miEQgExkinC+wA3EzwcKmh0CY2+TH
++4ZVebFgUQqq3AjQCJOQDgjDjABIJFVGPD8VSQBDCRuY62GoGjIOMimoEaxJhFDP
+p8P2W7YQgnxMGuGSng/qViaYUN/ftyvNlxLwpc9M9TbLF8iY+2ffnBWzppYvdS4U
+tRYN5QQWhloPZo9cHupsKo8XJJ8+KUiWHp94cGzT196xT0f7A/Xnrn4cWJT9Pll2
+K8Aqv2SmZY2XlK99NOFPHW34PFWxOTN2JqthpL0kMvPxnPZ3/t7JDcPdPcvaCu+t
+xPL9DVc7Yk2p12lbw0Dn5z3PdrDZzde+jZ5O+h6Grnc2vjpV1r1ucPzK2505eTcW
+D2ZEn98M1eb05fk31p380NwfPfuy4f6hir6J6k3peOTSofNHW3KHL462vnm9vgfM
+PxKbMQwPdxV3N25rWZthlRbYS6zsLbtenJj/7P327/LhObehsGr/j/GxjqHLhfNy
+o+Xpp5qK8yZLF5hr1pddifwEL2c8Og==
+=2ZGh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/zeit
+
+==================================================================
