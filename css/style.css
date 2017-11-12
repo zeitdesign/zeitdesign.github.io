@@ -29,12 +29,19 @@
 * {
   box-sizing: border-box;
   margin: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+body {
+  background: #24292E;
 }
 h1 {
   font-family: ibm-plex-serif, Times, serif;
   font-size: 6rem;
   font-weight: 600;
-  color: #24292E
+  color: #FCFCFC;
 }
 .container {
   display: -webkit-box;
